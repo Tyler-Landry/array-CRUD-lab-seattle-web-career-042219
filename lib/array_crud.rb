@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(list, element)
-  
+  list = ["Chungus","Chungus","Chungus","Shabungus"]
 end
 
 def add_element_to_start_of_array(array, element)
